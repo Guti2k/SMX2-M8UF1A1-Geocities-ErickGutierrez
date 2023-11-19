@@ -7,4 +7,8 @@
 ## ¿Quien lo creo?
 |Origen|Foto del creador|
 |------------------------|--------------------|
-|Netscape fue creado por NCC (*Netscape Communications Corporation*), una compañia fundada por Marc Andreesen y Jim Clark.   |<img src="./Fotos/geocities.jpg" width="200" height="200" />|
+|
+GeoCities fue fundado por David Bohnett y John Rezner en 1994.   |<img src="./Fotos/geocities.jpg" width="200" height="200" />|
+
+## *Marc Andreesen*
+Es un empresario y capitalista de riesgo estadounidense. Este nació el 9 de julio de 1971 y es conocido por su papel en el desarrollo del navegador web Mosaic y co-fundador de Netscape Communications Corporation. 
