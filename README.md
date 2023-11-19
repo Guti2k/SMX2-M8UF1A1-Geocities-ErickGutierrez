@@ -7,4 +7,4 @@
 ## ¿Quien lo creo?
 |Origen|Foto del creador|
 |------------------------|--------------------|
-|Netscape fue creado por NCC (*Netscape Communications Corporation*), una compañia fundada por Marc Andreesen y Jim Clark.   |<img src="./Fotos/descarga.jpeg" alt="netscapecorpotion" width="200" height="200" />|
+|Netscape fue creado por NCC (*Netscape Communications Corporation*), una compañia fundada por Marc Andreesen y Jim Clark.   |<img src="./Fotos/geocities.jpg" width="200" height="200" />|
