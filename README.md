@@ -19,3 +19,4 @@ Es un empresario y filántropo estadounidense, conocido por ser uno de los funda
 * Podeias alojar tu paguina web en el servidor Geocites
 * Permite a los usuarios crear y publicar sus propias páginas web de manera gratuita
 * Los usuarios podían elegir "vecindarios" temáticos que se alinearan con sus intereses, y dentro de cada vecindario
+* Los sitios web a menudo incluían información personal, fotos, enlaces y otros contenidos relacionados con los intereses del creador.
