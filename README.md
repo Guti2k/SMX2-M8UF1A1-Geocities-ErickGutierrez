@@ -10,5 +10,6 @@
 |
 GeoCities fue fundado por David Bohnett y John Rezner en 1994.   |<img src="./Fotos/geocities.jpg" width="200" height="200" />|
 
-## *Marc Andreesen*
-Es un empresario y capitalista de riesgo estadounidense. Este nació el 9 de julio de 1971 y es conocido por su papel en el desarrollo del navegador web Mosaic y co-fundador de Netscape Communications Corporation. 
+## *David Bohnett*
+Es un empresario y filántropo estadounidense, conocido por ser uno de los fundadores de GeoCities. David Bohnett conocido por su contribución significativa al desarrollo temprano de la web y la creación de GeoCities, una plataforma de alojamiento web que permitió a los usuarios crear sus propias páginas web de manera sencilla.
+
