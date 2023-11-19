@@ -14,3 +14,8 @@
 Es un empresario y filántropo estadounidense, conocido por ser uno de los fundadores de GeoCities. David Bohnett conocido por su contribución significativa al desarrollo temprano de la web y la creación de GeoCities, una plataforma de alojamiento web que permitió a los usuarios crear sus propias páginas web de manera sencilla.
 
 <img src="./Fotos/gettyimages-528359362-612x612.jpg" with=" 300" height="200">
+
+## ¿Que servicios daba?
+* Podeias alojar tu paguina web en el servidor Geocites
+* Permite a los usuarios crear y publicar sus propias páginas web de manera gratuita
+* Los usuarios podían elegir "vecindarios" temáticos que se alinearan con sus intereses, y dentro de cada vecindario
