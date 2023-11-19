@@ -13,3 +13,4 @@ GeoCities fue fundado por David Bohnett y John Rezner en 1994.   |<img src="./Fo
 ## *David Bohnett*
 Es un empresario y filántropo estadounidense, conocido por ser uno de los fundadores de GeoCities. David Bohnett conocido por su contribución significativa al desarrollo temprano de la web y la creación de GeoCities, una plataforma de alojamiento web que permitió a los usuarios crear sus propias páginas web de manera sencilla.
 
+<img src="./Fotos/gettyimages-528359362-612x612.jpg" with=" 300" height="200">
